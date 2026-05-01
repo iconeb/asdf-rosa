@@ -55,4 +55,4 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 # License
 
-See [LICENSE](LICENSE) © [Federico Nebiolo](https://github.com/iconeb/)
+See [LICENSE](LICENSE) © [iconeb](https://github.com/iconeb/)
